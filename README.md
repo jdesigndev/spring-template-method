@@ -1,4 +1,4 @@
-# spring-reactive-webflux
+# spring-template-method
 Example on template method design pattern with spring
 
 ## Requirements
